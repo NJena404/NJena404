@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narayan jena</h1>
-<h3 align="center">Hard core Machine Learner</h3>
+<h3 align="center">Hardcore Machine Learner</h3>
 
 - 🌱 I’m currently learning **Deep Learning , NLP**
 
