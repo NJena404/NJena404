@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narayan jena</h1>
 <h3 align="center">Hardcore Machine Learner</h3>
 
-- 🌱 I’m currently learning **Deep Learning , NLP**
+- 🌱 I’m currently learning **Deep Learning , NLP , Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NJena404](https://github.com/NJena404)
 
