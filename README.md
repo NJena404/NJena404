@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njena404" alt="njena404" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning , NLP**
+- 🌱 I’m currently learning **Generative AI , Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NJena404](https://github.com/NJena404)
 
