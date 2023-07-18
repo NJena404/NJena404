@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narayan jena</h1>
-<h3 align="center">A Keen Learner</h3>
+<h3 align="center">A Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njena404&label=Profile%20views&color=0e75b6&style=flat" alt="njena404" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NJena404](https://github.com/NJena404)
 
-- 📝 I regularly write articles on [https://medium.com/@njenamachinelearning](https://medium.com/@njenamachinelearning)
+- 📝 I  write articles on [https://medium.com/@njenamachinelearning](https://medium.com/@njenamachinelearning)
 
 - 💬 Ask me about **Machine learning and Python**
 
