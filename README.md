@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NJena404](https://github.com/NJena404)
 
-- 📝 I  write articles on [https://medium.com/@njenamachinelearning](https://medium.com/@njenamachinelearning)
+- 📝 Sometime I  write article on [https://medium.com/@njenamachinelearning](https://medium.com/@njenamachinelearning)
 
 - 📫 How to reach me **jenanarayan04@gmail.com**
 
