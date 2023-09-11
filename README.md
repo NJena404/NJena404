@@ -3,12 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njena404&label=Profile%20views&color=0e75b6&style=flat" alt="njena404" /> </p>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C268%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1660-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
 - 🌱 MCA graduate from **Osmania University**
 
