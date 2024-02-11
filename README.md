@@ -40,19 +40,3 @@ njena = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect.</b> Drop a <b>hi, I'll be happy to connect!</b> 😊</em>
-
----
-
-
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=njena404&show_icons=true&locale=en&layout=compact" alt="njena404" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=njena404&show_icons=true&locale=en" alt="njena404" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njena404&" alt="njena404" /></p>
