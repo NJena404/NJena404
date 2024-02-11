@@ -27,11 +27,14 @@
 ```Python
 njena = {
     pronouns: " MAN ",
-    code: ["C#", "Javascript", "Python"],
+    language: ["C#", "Javascript", "Python"],
     Interest: ["web dev", "tech", "photography"],
     technologies: {
         backEnd: {
             Framework: [".NET", "Flask", "Django"],
+        },
+        frontEnd {
+            Framework: ["React"],
         },
         databases: ["mongo", "SQLServer", "sqlite"],
         misc: ["Power BI", "Machine Learning", "GEN AI", ]
