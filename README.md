@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm N.jena from Odisha, India </h1>
+<h1 align="center">Hi there 👋, I'm N.jena </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njena404&label=Profile%20views&color=0e75b6&style=flat" alt="njena404" /> </p>
