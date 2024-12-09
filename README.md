@@ -27,7 +27,7 @@
 ```Python
 njena = {
     pronouns: " MAN ",
-    language: ["C#", "Javascript", "Python"],
+    language: ["C#", "Javascript", "Python", "GoLang"],
     Interest: ["web dev", "tech", "photography"],
     technologies: {
         backEnd: {
